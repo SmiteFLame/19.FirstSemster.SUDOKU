@@ -1,0 +1,4 @@
+#Tue May 28 23:31:25 KST 2019
+base.0=C\:\\Users\\Dong-Hyeok\\AndroidStudioProjects\\SudoKu\\app\\build\\intermediates\\transforms\\dexMerger\\debug\\10
+path.0=classes.dex
+renamed.0=classes.dex

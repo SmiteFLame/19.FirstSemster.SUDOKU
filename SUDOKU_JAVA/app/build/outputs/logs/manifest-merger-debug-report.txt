@@ -1,0 +1,160 @@
+-- Merging decision tree log ---
+manifest
+ADDED from C:\Users\Dong-Hyeok\AndroidStudioProjects\SudoKu\app\src\main\AndroidManifest.xml:2:1-24:12
+INJECTED from C:\Users\Dong-Hyeok\AndroidStudioProjects\SudoKu\app\src\main\AndroidManifest.xml:2:1-24:12
+INJECTED from C:\Users\Dong-Hyeok\AndroidStudioProjects\SudoKu\app\src\main\AndroidManifest.xml:2:1-24:12
+INJECTED from C:\Users\Dong-Hyeok\AndroidStudioProjects\SudoKu\app\src\main\AndroidManifest.xml:2:1-24:12
+MERGED from [androidx.appcompat:appcompat:1.0.2] C:\Users\Dong-Hyeok\.gradle\caches\transforms-2\files-2.1\76c613a2440bb4d5d45ce4c60b1ce3b3\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.constraintlayout:constraintlayout:1.1.3] C:\Users\Dong-Hyeok\.gradle\caches\transforms-2\files-2.1\a0a6b61372201a0c4b5e8dcb2f616079\AndroidManifest.xml:2:1-11:12
+MERGED from [androidx.fragment:fragment:1.0.0] C:\Users\Dong-Hyeok\.gradle\caches\transforms-2\files-2.1\7142acfe22e2ced98fd52b65008e9511\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.vectordrawable:vectordrawable-animated:1.0.0] C:\Users\Dong-Hyeok\.gradle\caches\transforms-2\files-2.1\e43d46305fbfd1157b02c5040916c5d1\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.legacy:legacy-support-core-ui:1.0.0] C:\Users\Dong-Hyeok\.gradle\caches\transforms-2\files-2.1\d09eb044431016849dc97527adb2443e\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.legacy:legacy-support-core-utils:1.0.0] C:\Users\Dong-Hyeok\.gradle\caches\transforms-2\files-2.1\48c1eac2e4eb2d93d0138f05e0cc3491\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.vectordrawable:vectordrawable:1.0.1] C:\Users\Dong-Hyeok\.gradle\caches\transforms-2\files-2.1\3d1d1a1652b7c0ee6efb821891c63455\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.loader:loader:1.0.0] C:\Users\Dong-Hyeok\.gradle\caches\transforms-2\files-2.1\667069eb3daf988c0a03856391f31205\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.viewpager:viewpager:1.0.0] C:\Users\Dong-Hyeok\.gradle\caches\transforms-2\files-2.1\0d7dbf03c20a3e55602ad3f6daa64456\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.coordinatorlayout:coordinatorlayout:1.0.0] C:\Users\Dong-Hyeok\.gradle\caches\transforms-2\files-2.1\83a92d795a70a0d0b5efc44ae03efffd\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.drawerlayout:drawerlayout:1.0.0] C:\Users\Dong-Hyeok\.gradle\caches\transforms-2\files-2.1\d5224751a3bc6e6bbbe5bc3d696eb84b\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.slidingpanelayout:slidingpanelayout:1.0.0] C:\Users\Dong-Hyeok\.gradle\caches\transforms-2\files-2.1\a89a3a42b392e29603cc60bb3dff612f\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.customview:customview:1.0.0] C:\Users\Dong-Hyeok\.gradle\caches\transforms-2\files-2.1\3d07bbc2e0e57be25e6baaa853431f78\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.swiperefreshlayout:swiperefreshlayout:1.0.0] C:\Users\Dong-Hyeok\.gradle\caches\transforms-2\files-2.1\2a44c89c478fc8e043b8e66e6291ffcb\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.asynclayoutinflater:asynclayoutinflater:1.0.0] C:\Users\Dong-Hyeok\.gradle\caches\transforms-2\files-2.1\da677f2222c98ea6c2d9e4b183952a8b\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.core:core:1.0.1] C:\Users\Dong-Hyeok\.gradle\caches\transforms-2\files-2.1\dab7325b56fd089bc74d4a8707893aae\AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.versionedparcelable:versionedparcelable:1.0.0] C:\Users\Dong-Hyeok\.gradle\caches\transforms-2\files-2.1\79b7f199ad48323e42ba2c32646dd9ec\AndroidManifest.xml:17:1-25:12
+MERGED from [androidx.cursoradapter:cursoradapter:1.0.0] C:\Users\Dong-Hyeok\.gradle\caches\transforms-2\files-2.1\56438ebcf424a18a61a9d45d78c7b425\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.lifecycle:lifecycle-runtime:2.0.0] C:\Users\Dong-Hyeok\.gradle\caches\transforms-2\files-2.1\18d489577964e99d1144fd60bc2bbf99\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.documentfile:documentfile:1.0.0] C:\Users\Dong-Hyeok\.gradle\caches\transforms-2\files-2.1\a2a28b027a38050a654ffde095e63bdf\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.localbroadcastmanager:localbroadcastmanager:1.0.0] C:\Users\Dong-Hyeok\.gradle\caches\transforms-2\files-2.1\e172fc7489ee575986f45b853b2a66f5\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.print:print:1.0.0] C:\Users\Dong-Hyeok\.gradle\caches\transforms-2\files-2.1\bc65eb70eaddc6bd3de2952af2b5f8b8\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.lifecycle:lifecycle-viewmodel:2.0.0] C:\Users\Dong-Hyeok\.gradle\caches\transforms-2\files-2.1\71f5c488cf4051cb55a55360e9bfe5d6\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.lifecycle:lifecycle-livedata:2.0.0] C:\Users\Dong-Hyeok\.gradle\caches\transforms-2\files-2.1\ee686b5cf09aad6d667d210849d869bd\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.lifecycle:lifecycle-livedata-core:2.0.0] C:\Users\Dong-Hyeok\.gradle\caches\transforms-2\files-2.1\cdcf366192c82a4b95efe8bb584d39fb\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.arch.core:core-runtime:2.0.0] C:\Users\Dong-Hyeok\.gradle\caches\transforms-2\files-2.1\ee3c998c767c8f221736114f281c5fb5\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.interpolator:interpolator:1.0.0] C:\Users\Dong-Hyeok\.gradle\caches\transforms-2\files-2.1\79c8394fb42489f4c9a038071d62c3c2\AndroidManifest.xml:17:1-22:12
+INJECTED from C:\Users\Dong-Hyeok\AndroidStudioProjects\SudoKu\app\src\main\AndroidManifest.xml:2:1-24:12
+INJECTED from C:\Users\Dong-Hyeok\AndroidStudioProjects\SudoKu\app\src\main\AndroidManifest.xml:2:1-24:12
+INJECTED from C:\Users\Dong-Hyeok\AndroidStudioProjects\SudoKu\app\src\main\AndroidManifest.xml:2:1-24:12
+	package
+		ADDED from C:\Users\Dong-Hyeok\AndroidStudioProjects\SudoKu\app\src\main\AndroidManifest.xml:4:5-33
+		INJECTED from C:\Users\Dong-Hyeok\AndroidStudioProjects\SudoKu\app\src\main\AndroidManifest.xml
+		INJECTED from C:\Users\Dong-Hyeok\AndroidStudioProjects\SudoKu\app\src\main\AndroidManifest.xml
+	android:versionName
+		INJECTED from C:\Users\Dong-Hyeok\AndroidStudioProjects\SudoKu\app\src\main\AndroidManifest.xml
+		ADDED from C:\Users\Dong-Hyeok\AndroidStudioProjects\SudoKu\app\src\main\AndroidManifest.xml:2:1-24:12
+		INJECTED from C:\Users\Dong-Hyeok\AndroidStudioProjects\SudoKu\app\src\main\AndroidManifest.xml
+	xmlns:dist
+		ADDED from C:\Users\Dong-Hyeok\AndroidStudioProjects\SudoKu\app\src\main\AndroidManifest.xml:3:5-61
+	android:versionCode
+		INJECTED from C:\Users\Dong-Hyeok\AndroidStudioProjects\SudoKu\app\src\main\AndroidManifest.xml
+		ADDED from C:\Users\Dong-Hyeok\AndroidStudioProjects\SudoKu\app\src\main\AndroidManifest.xml:2:1-24:12
+		INJECTED from C:\Users\Dong-Hyeok\AndroidStudioProjects\SudoKu\app\src\main\AndroidManifest.xml
+	xmlns:android
+		ADDED from C:\Users\Dong-Hyeok\AndroidStudioProjects\SudoKu\app\src\main\AndroidManifest.xml:2:11-69
+dist:module
+ADDED from C:\Users\Dong-Hyeok\AndroidStudioProjects\SudoKu\app\src\main\AndroidManifest.xml:6:5-40
+	dist:instant
+		ADDED from C:\Users\Dong-Hyeok\AndroidStudioProjects\SudoKu\app\src\main\AndroidManifest.xml:6:18-37
+application
+ADDED from C:\Users\Dong-Hyeok\AndroidStudioProjects\SudoKu\app\src\main\AndroidManifest.xml:8:5-22:19
+MERGED from [androidx.constraintlayout:constraintlayout:1.1.3] C:\Users\Dong-Hyeok\.gradle\caches\transforms-2\files-2.1\a0a6b61372201a0c4b5e8dcb2f616079\AndroidManifest.xml:9:5-20
+MERGED from [androidx.constraintlayout:constraintlayout:1.1.3] C:\Users\Dong-Hyeok\.gradle\caches\transforms-2\files-2.1\a0a6b61372201a0c4b5e8dcb2f616079\AndroidManifest.xml:9:5-20
+MERGED from [androidx.core:core:1.0.1] C:\Users\Dong-Hyeok\.gradle\caches\transforms-2\files-2.1\dab7325b56fd089bc74d4a8707893aae\AndroidManifest.xml:22:5-89
+MERGED from [androidx.core:core:1.0.1] C:\Users\Dong-Hyeok\.gradle\caches\transforms-2\files-2.1\dab7325b56fd089bc74d4a8707893aae\AndroidManifest.xml:22:5-89
+MERGED from [androidx.versionedparcelable:versionedparcelable:1.0.0] C:\Users\Dong-Hyeok\.gradle\caches\transforms-2\files-2.1\79b7f199ad48323e42ba2c32646dd9ec\AndroidManifest.xml:22:5-23:19
+MERGED from [androidx.versionedparcelable:versionedparcelable:1.0.0] C:\Users\Dong-Hyeok\.gradle\caches\transforms-2\files-2.1\79b7f199ad48323e42ba2c32646dd9ec\AndroidManifest.xml:22:5-23:19
+	android:appComponentFactory
+		ADDED from [androidx.core:core:1.0.1] C:\Users\Dong-Hyeok\.gradle\caches\transforms-2\files-2.1\dab7325b56fd089bc74d4a8707893aae\AndroidManifest.xml:22:18-86
+	android:supportsRtl
+		ADDED from C:\Users\Dong-Hyeok\AndroidStudioProjects\SudoKu\app\src\main\AndroidManifest.xml:13:9-35
+	android:label
+		ADDED from C:\Users\Dong-Hyeok\AndroidStudioProjects\SudoKu\app\src\main\AndroidManifest.xml:11:9-41
+	android:roundIcon
+		ADDED from C:\Users\Dong-Hyeok\AndroidStudioProjects\SudoKu\app\src\main\AndroidManifest.xml:12:9-54
+	android:icon
+		ADDED from C:\Users\Dong-Hyeok\AndroidStudioProjects\SudoKu\app\src\main\AndroidManifest.xml:10:9-43
+	android:allowBackup
+		ADDED from C:\Users\Dong-Hyeok\AndroidStudioProjects\SudoKu\app\src\main\AndroidManifest.xml:9:9-35
+	android:theme
+		ADDED from C:\Users\Dong-Hyeok\AndroidStudioProjects\SudoKu\app\src\main\AndroidManifest.xml:14:9-40
+activity#com.example.sudoku.MainActivity
+ADDED from C:\Users\Dong-Hyeok\AndroidStudioProjects\SudoKu\app\src\main\AndroidManifest.xml:15:9-21:20
+	android:name
+		ADDED from C:\Users\Dong-Hyeok\AndroidStudioProjects\SudoKu\app\src\main\AndroidManifest.xml:15:19-47
+intent-filter#action:name:android.intent.action.MAIN+category:name:android.intent.category.LAUNCHER
+ADDED from C:\Users\Dong-Hyeok\AndroidStudioProjects\SudoKu\app\src\main\AndroidManifest.xml:16:13-20:29
+action#android.intent.action.MAIN
+ADDED from C:\Users\Dong-Hyeok\AndroidStudioProjects\SudoKu\app\src\main\AndroidManifest.xml:17:17-69
+	android:name
+		ADDED from C:\Users\Dong-Hyeok\AndroidStudioProjects\SudoKu\app\src\main\AndroidManifest.xml:17:25-66
+category#android.intent.category.LAUNCHER
+ADDED from C:\Users\Dong-Hyeok\AndroidStudioProjects\SudoKu\app\src\main\AndroidManifest.xml:19:17-77
+	android:name
+		ADDED from C:\Users\Dong-Hyeok\AndroidStudioProjects\SudoKu\app\src\main\AndroidManifest.xml:19:27-74
+uses-sdk
+INJECTED from C:\Users\Dong-Hyeok\AndroidStudioProjects\SudoKu\app\src\main\AndroidManifest.xml reason: use-sdk injection requested
+INJECTED from C:\Users\Dong-Hyeok\AndroidStudioProjects\SudoKu\app\src\main\AndroidManifest.xml
+INJECTED from C:\Users\Dong-Hyeok\AndroidStudioProjects\SudoKu\app\src\main\AndroidManifest.xml
+MERGED from [androidx.appcompat:appcompat:1.0.2] C:\Users\Dong-Hyeok\.gradle\caches\transforms-2\files-2.1\76c613a2440bb4d5d45ce4c60b1ce3b3\AndroidManifest.xml:20:5-44
+MERGED from [androidx.appcompat:appcompat:1.0.2] C:\Users\Dong-Hyeok\.gradle\caches\transforms-2\files-2.1\76c613a2440bb4d5d45ce4c60b1ce3b3\AndroidManifest.xml:20:5-44
+MERGED from [androidx.constraintlayout:constraintlayout:1.1.3] C:\Users\Dong-Hyeok\.gradle\caches\transforms-2\files-2.1\a0a6b61372201a0c4b5e8dcb2f616079\AndroidManifest.xml:5:5-7:41
+MERGED from [androidx.constraintlayout:constraintlayout:1.1.3] C:\Users\Dong-Hyeok\.gradle\caches\transforms-2\files-2.1\a0a6b61372201a0c4b5e8dcb2f616079\AndroidManifest.xml:5:5-7:41
+MERGED from [androidx.fragment:fragment:1.0.0] C:\Users\Dong-Hyeok\.gradle\caches\transforms-2\files-2.1\7142acfe22e2ced98fd52b65008e9511\AndroidManifest.xml:20:5-44
+MERGED from [androidx.fragment:fragment:1.0.0] C:\Users\Dong-Hyeok\.gradle\caches\transforms-2\files-2.1\7142acfe22e2ced98fd52b65008e9511\AndroidManifest.xml:20:5-44
+MERGED from [androidx.vectordrawable:vectordrawable-animated:1.0.0] C:\Users\Dong-Hyeok\.gradle\caches\transforms-2\files-2.1\e43d46305fbfd1157b02c5040916c5d1\AndroidManifest.xml:20:5-44
+MERGED from [androidx.vectordrawable:vectordrawable-animated:1.0.0] C:\Users\Dong-Hyeok\.gradle\caches\transforms-2\files-2.1\e43d46305fbfd1157b02c5040916c5d1\AndroidManifest.xml:20:5-44
+MERGED from [androidx.legacy:legacy-support-core-ui:1.0.0] C:\Users\Dong-Hyeok\.gradle\caches\transforms-2\files-2.1\d09eb044431016849dc97527adb2443e\AndroidManifest.xml:20:5-44
+MERGED from [androidx.legacy:legacy-support-core-ui:1.0.0] C:\Users\Dong-Hyeok\.gradle\caches\transforms-2\files-2.1\d09eb044431016849dc97527adb2443e\AndroidManifest.xml:20:5-44
+MERGED from [androidx.legacy:legacy-support-core-utils:1.0.0] C:\Users\Dong-Hyeok\.gradle\caches\transforms-2\files-2.1\48c1eac2e4eb2d93d0138f05e0cc3491\AndroidManifest.xml:20:5-44
+MERGED from [androidx.legacy:legacy-support-core-utils:1.0.0] C:\Users\Dong-Hyeok\.gradle\caches\transforms-2\files-2.1\48c1eac2e4eb2d93d0138f05e0cc3491\AndroidManifest.xml:20:5-44
+MERGED from [androidx.vectordrawable:vectordrawable:1.0.1] C:\Users\Dong-Hyeok\.gradle\caches\transforms-2\files-2.1\3d1d1a1652b7c0ee6efb821891c63455\AndroidManifest.xml:20:5-44
+MERGED from [androidx.vectordrawable:vectordrawable:1.0.1] C:\Users\Dong-Hyeok\.gradle\caches\transforms-2\files-2.1\3d1d1a1652b7c0ee6efb821891c63455\AndroidManifest.xml:20:5-44
+MERGED from [androidx.loader:loader:1.0.0] C:\Users\Dong-Hyeok\.gradle\caches\transforms-2\files-2.1\667069eb3daf988c0a03856391f31205\AndroidManifest.xml:20:5-44
+MERGED from [androidx.loader:loader:1.0.0] C:\Users\Dong-Hyeok\.gradle\caches\transforms-2\files-2.1\667069eb3daf988c0a03856391f31205\AndroidManifest.xml:20:5-44
+MERGED from [androidx.viewpager:viewpager:1.0.0] C:\Users\Dong-Hyeok\.gradle\caches\transforms-2\files-2.1\0d7dbf03c20a3e55602ad3f6daa64456\AndroidManifest.xml:20:5-44
+MERGED from [androidx.viewpager:viewpager:1.0.0] C:\Users\Dong-Hyeok\.gradle\caches\transforms-2\files-2.1\0d7dbf03c20a3e55602ad3f6daa64456\AndroidManifest.xml:20:5-44
+MERGED from [androidx.coordinatorlayout:coordinatorlayout:1.0.0] C:\Users\Dong-Hyeok\.gradle\caches\transforms-2\files-2.1\83a92d795a70a0d0b5efc44ae03efffd\AndroidManifest.xml:20:5-44
+MERGED from [androidx.coordinatorlayout:coordinatorlayout:1.0.0] C:\Users\Dong-Hyeok\.gradle\caches\transforms-2\files-2.1\83a92d795a70a0d0b5efc44ae03efffd\AndroidManifest.xml:20:5-44
+MERGED from [androidx.drawerlayout:drawerlayout:1.0.0] C:\Users\Dong-Hyeok\.gradle\caches\transforms-2\files-2.1\d5224751a3bc6e6bbbe5bc3d696eb84b\AndroidManifest.xml:20:5-44
+MERGED from [androidx.drawerlayout:drawerlayout:1.0.0] C:\Users\Dong-Hyeok\.gradle\caches\transforms-2\files-2.1\d5224751a3bc6e6bbbe5bc3d696eb84b\AndroidManifest.xml:20:5-44
+MERGED from [androidx.slidingpanelayout:slidingpanelayout:1.0.0] C:\Users\Dong-Hyeok\.gradle\caches\transforms-2\files-2.1\a89a3a42b392e29603cc60bb3dff612f\AndroidManifest.xml:20:5-44
+MERGED from [androidx.slidingpanelayout:slidingpanelayout:1.0.0] C:\Users\Dong-Hyeok\.gradle\caches\transforms-2\files-2.1\a89a3a42b392e29603cc60bb3dff612f\AndroidManifest.xml:20:5-44
+MERGED from [androidx.customview:customview:1.0.0] C:\Users\Dong-Hyeok\.gradle\caches\transforms-2\files-2.1\3d07bbc2e0e57be25e6baaa853431f78\AndroidManifest.xml:20:5-44
+MERGED from [androidx.customview:customview:1.0.0] C:\Users\Dong-Hyeok\.gradle\caches\transforms-2\files-2.1\3d07bbc2e0e57be25e6baaa853431f78\AndroidManifest.xml:20:5-44
+MERGED from [androidx.swiperefreshlayout:swiperefreshlayout:1.0.0] C:\Users\Dong-Hyeok\.gradle\caches\transforms-2\files-2.1\2a44c89c478fc8e043b8e66e6291ffcb\AndroidManifest.xml:20:5-44
+MERGED from [androidx.swiperefreshlayout:swiperefreshlayout:1.0.0] C:\Users\Dong-Hyeok\.gradle\caches\transforms-2\files-2.1\2a44c89c478fc8e043b8e66e6291ffcb\AndroidManifest.xml:20:5-44
+MERGED from [androidx.asynclayoutinflater:asynclayoutinflater:1.0.0] C:\Users\Dong-Hyeok\.gradle\caches\transforms-2\files-2.1\da677f2222c98ea6c2d9e4b183952a8b\AndroidManifest.xml:20:5-44
+MERGED from [androidx.asynclayoutinflater:asynclayoutinflater:1.0.0] C:\Users\Dong-Hyeok\.gradle\caches\transforms-2\files-2.1\da677f2222c98ea6c2d9e4b183952a8b\AndroidManifest.xml:20:5-44
+MERGED from [androidx.core:core:1.0.1] C:\Users\Dong-Hyeok\.gradle\caches\transforms-2\files-2.1\dab7325b56fd089bc74d4a8707893aae\AndroidManifest.xml:20:5-44
+MERGED from [androidx.core:core:1.0.1] C:\Users\Dong-Hyeok\.gradle\caches\transforms-2\files-2.1\dab7325b56fd089bc74d4a8707893aae\AndroidManifest.xml:20:5-44
+MERGED from [androidx.versionedparcelable:versionedparcelable:1.0.0] C:\Users\Dong-Hyeok\.gradle\caches\transforms-2\files-2.1\79b7f199ad48323e42ba2c32646dd9ec\AndroidManifest.xml:20:5-44
+MERGED from [androidx.versionedparcelable:versionedparcelable:1.0.0] C:\Users\Dong-Hyeok\.gradle\caches\transforms-2\files-2.1\79b7f199ad48323e42ba2c32646dd9ec\AndroidManifest.xml:20:5-44
+MERGED from [androidx.cursoradapter:cursoradapter:1.0.0] C:\Users\Dong-Hyeok\.gradle\caches\transforms-2\files-2.1\56438ebcf424a18a61a9d45d78c7b425\AndroidManifest.xml:20:5-44
+MERGED from [androidx.cursoradapter:cursoradapter:1.0.0] C:\Users\Dong-Hyeok\.gradle\caches\transforms-2\files-2.1\56438ebcf424a18a61a9d45d78c7b425\AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-runtime:2.0.0] C:\Users\Dong-Hyeok\.gradle\caches\transforms-2\files-2.1\18d489577964e99d1144fd60bc2bbf99\AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-runtime:2.0.0] C:\Users\Dong-Hyeok\.gradle\caches\transforms-2\files-2.1\18d489577964e99d1144fd60bc2bbf99\AndroidManifest.xml:20:5-44
+MERGED from [androidx.documentfile:documentfile:1.0.0] C:\Users\Dong-Hyeok\.gradle\caches\transforms-2\files-2.1\a2a28b027a38050a654ffde095e63bdf\AndroidManifest.xml:20:5-44
+MERGED from [androidx.documentfile:documentfile:1.0.0] C:\Users\Dong-Hyeok\.gradle\caches\transforms-2\files-2.1\a2a28b027a38050a654ffde095e63bdf\AndroidManifest.xml:20:5-44
+MERGED from [androidx.localbroadcastmanager:localbroadcastmanager:1.0.0] C:\Users\Dong-Hyeok\.gradle\caches\transforms-2\files-2.1\e172fc7489ee575986f45b853b2a66f5\AndroidManifest.xml:20:5-44
+MERGED from [androidx.localbroadcastmanager:localbroadcastmanager:1.0.0] C:\Users\Dong-Hyeok\.gradle\caches\transforms-2\files-2.1\e172fc7489ee575986f45b853b2a66f5\AndroidManifest.xml:20:5-44
+MERGED from [androidx.print:print:1.0.0] C:\Users\Dong-Hyeok\.gradle\caches\transforms-2\files-2.1\bc65eb70eaddc6bd3de2952af2b5f8b8\AndroidManifest.xml:20:5-44
+MERGED from [androidx.print:print:1.0.0] C:\Users\Dong-Hyeok\.gradle\caches\transforms-2\files-2.1\bc65eb70eaddc6bd3de2952af2b5f8b8\AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-viewmodel:2.0.0] C:\Users\Dong-Hyeok\.gradle\caches\transforms-2\files-2.1\71f5c488cf4051cb55a55360e9bfe5d6\AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-viewmodel:2.0.0] C:\Users\Dong-Hyeok\.gradle\caches\transforms-2\files-2.1\71f5c488cf4051cb55a55360e9bfe5d6\AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-livedata:2.0.0] C:\Users\Dong-Hyeok\.gradle\caches\transforms-2\files-2.1\ee686b5cf09aad6d667d210849d869bd\AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-livedata:2.0.0] C:\Users\Dong-Hyeok\.gradle\caches\transforms-2\files-2.1\ee686b5cf09aad6d667d210849d869bd\AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-livedata-core:2.0.0] C:\Users\Dong-Hyeok\.gradle\caches\transforms-2\files-2.1\cdcf366192c82a4b95efe8bb584d39fb\AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-livedata-core:2.0.0] C:\Users\Dong-Hyeok\.gradle\caches\transforms-2\files-2.1\cdcf366192c82a4b95efe8bb584d39fb\AndroidManifest.xml:20:5-44
+MERGED from [androidx.arch.core:core-runtime:2.0.0] C:\Users\Dong-Hyeok\.gradle\caches\transforms-2\files-2.1\ee3c998c767c8f221736114f281c5fb5\AndroidManifest.xml:20:5-44
+MERGED from [androidx.arch.core:core-runtime:2.0.0] C:\Users\Dong-Hyeok\.gradle\caches\transforms-2\files-2.1\ee3c998c767c8f221736114f281c5fb5\AndroidManifest.xml:20:5-44
+MERGED from [androidx.interpolator:interpolator:1.0.0] C:\Users\Dong-Hyeok\.gradle\caches\transforms-2\files-2.1\79c8394fb42489f4c9a038071d62c3c2\AndroidManifest.xml:20:5-44
+MERGED from [androidx.interpolator:interpolator:1.0.0] C:\Users\Dong-Hyeok\.gradle\caches\transforms-2\files-2.1\79c8394fb42489f4c9a038071d62c3c2\AndroidManifest.xml:20:5-44
+INJECTED from C:\Users\Dong-Hyeok\AndroidStudioProjects\SudoKu\app\src\main\AndroidManifest.xml
+INJECTED from C:\Users\Dong-Hyeok\AndroidStudioProjects\SudoKu\app\src\main\AndroidManifest.xml
+	android:targetSdkVersion
+		INJECTED from C:\Users\Dong-Hyeok\AndroidStudioProjects\SudoKu\app\src\main\AndroidManifest.xml
+		ADDED from C:\Users\Dong-Hyeok\AndroidStudioProjects\SudoKu\app\src\main\AndroidManifest.xml
+		INJECTED from C:\Users\Dong-Hyeok\AndroidStudioProjects\SudoKu\app\src\main\AndroidManifest.xml
+	android:minSdkVersion
+		INJECTED from C:\Users\Dong-Hyeok\AndroidStudioProjects\SudoKu\app\src\main\AndroidManifest.xml
+		ADDED from C:\Users\Dong-Hyeok\AndroidStudioProjects\SudoKu\app\src\main\AndroidManifest.xml
+		INJECTED from C:\Users\Dong-Hyeok\AndroidStudioProjects\SudoKu\app\src\main\AndroidManifest.xml
